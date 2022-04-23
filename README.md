@@ -4,7 +4,7 @@
 
 # API COVID em ReactJS
 
-### Tópicos 
+### Resumo 
 
 - Projeto criado em ReactJs com objetivo de consumir uma api externa json para obter dados de casos de covid.
 
